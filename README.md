@@ -12,7 +12,7 @@ The quickest way to start and publish your Jekyll powered blog. 100% compatible 
 ### 2. Install Jekyll-Bootstrap-3  
 <pre>
   <code>
-    $ git clone https://github.com/dbtek/jekyll-bootstrap-3 USERNAME.github.io
+    $ git clone https://github.com/ricmclaughlin/jekyll-bootstrap-3 USERNAME.github.io
     $ cd USERNAME.github.com
     $ git remote set-url origin git@github.com:USERNAME/USERNAME.github.io.git
     $ git push origin master  
@@ -23,17 +23,15 @@ The quickest way to start and publish your Jekyll powered blog. 100% compatible 
 - After giving 10 mins to GitHub of course.  
 
 ### Todo Items
-add a CNAME file & change production_url in the `_config.yml` file
+* customize your portfolio by changing the  `name :`, `email :`, `github :`, `twitter :` and 
+  `feedburner :` fields in the `_config.yml` file
 
+* add a CNAME file to customize our portfolio's URL & change production_url in the `_config.yml` file
 
-### Themes
-
-Quickly install and use lovely themes with Jekyll Bootstrap 3. Visit [theme gallery](http://jekyllbootstrap3.tk/preview/).
+* customize your theme using Bootstrap!
 
 ## License
 
 [MIT](http://opensource.org/licenses/MIT)
 
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/dbtek/jekyll-bootstrap-3/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
