@@ -17,11 +17,13 @@ The quickest way to start and publish your Jekyll powered blog. 100% compatible 
     $ git remote set-url origin git@github.com:USERNAME/USERNAME.github.io.git
     $ git push origin master  
   </code>
-</pre>  
+</pre>
+
 ### 3. Enjoy !
 - After giving 10 mins to GitHub of course.  
 
-For original project's usage and documentation please see: <http://jekyllbootstrap.com>  
+### Todo Items
+add a CNAME file & change production_url in the `_config.yml` file
 
 
 ### Themes
