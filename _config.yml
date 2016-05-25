@@ -14,10 +14,10 @@ markdown: kramdown
 title : Evelyn Rocks
 tagline: Site Tagline
 author :
-  name : Name Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
+  name : Evelyn Ahulu
+  email : matekuor@yahoo.com
+  github : matekwor
+  twitter : @matekwor2
   feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
