@@ -14,11 +14,11 @@ markdown: kramdown
 title : Evelyn Rocks
 tagline: Site Tagline
 author : Evelyn Ahulu
-  name : Evelyn Ahulu
-  email : matekuor@yahoo.com
-  github : matekwor
-  twitter : matekwor2
-  feedburner : feedname
+name : Evelyn Ahulu
+email : matekuor@yahoo.com
+github : matekwor
+twitter : matekwor2
+feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt
